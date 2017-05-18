@@ -17,7 +17,8 @@ python entertainment_center.py
 To add more movies to the page, open `entertainment_center.py` and add:
 
 ```
-your_movie_name = media.Movie('Movie Title', '''Plot summary.''','http://movie-poster-url', 'http://link-to-trailer-on-youtube')
+your_movie_name = media.Movie('Movie Title', '''Plot summary.''',
+'http://movie-poster-url', 'http://link-to-trailer-on-youtube')
 ```
 
 Where each of the above is replaced with the relevant movie data.
