@@ -34,6 +34,7 @@ movies = [guardians, star_wars, doctor_strange,
 As a Udacity project, this program's code was primarily presented and built by Kunal Chawla and other Udacity team members as part of the Full Stack Nanodegree. This code was then further edited by Siobhan Hokin.
 
 [Udacity](https://www.udacity.com/)
+
 [Siobhan Hokin](siobhanhokin.com)
 
 ## Licence
